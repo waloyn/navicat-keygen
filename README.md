@@ -66,7 +66,7 @@
        ~~_`May change when Navicat product changes. Uncertain yet.`_~~  
        _`Must change when Navicat product changes. Confirmed yet.`_
        
-       For __Navicat 12 x64 English version: They must be 0xAC and 0x88 respectively.
+       For __Navicat 12 x64 English version: They must be 0xAC and 0x88 respectively.  
        For __Navicat 12 x64 Simplified Chinese version__: They must be `0xCE` and `0x32` respectively.  
        For __Navicat 12 x64 Traditional Chinese version__: They must be `0xAA` and `0x99` respectively.  
        For __Navicat 11 x64 Simplified Chinese version__: They must be `0xCE` and `0x32` respectively.  
